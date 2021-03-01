@@ -1,4 +1,4 @@
-'''HW01'''
+'''main'''
 from myMath import myArithmetic
 num_1 = int(input('請輸入第一個數: '))
 num_2 = int(input('請輸入第二個數: '))
